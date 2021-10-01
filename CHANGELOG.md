@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Bearer token authentication [#39](https://github.com/devopsspiral/KubeLibrary/pull/39) by [@m-wcislo](https://github.com/m-wcislo)
 - Keyoword for create and delete a cronjob [#71](https://github.com/devopsspiral/KubeLibrary/pull/71) by [@satish-nubolab](https://github.com/satish-nubolab)
 - Keywords for get replicaset in a namespace [#82](https://github.com/devopsspiral/KubeLibrary/pull/92) by [@hello2ray](https://github.com/hello2ray)
+- Keyword for create and delete role in a namespace [#96](https://github.com/devopsspiral/KubeLibrary/pull/97) by [@rohini-nubolab](https://github.com/rohini-nubolab)
 ## [0.4.0] - 2021-03-12
 ### Added
 - Kubeconfig context support [#36](https://github.com/devopsspiral/KubeLibrary/pull/36) by [@m-wcislo](https://github.com/m-wcislo)
